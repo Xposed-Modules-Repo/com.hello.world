@@ -1,5 +1,5 @@
 # 飞哥传说
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.hello.world">   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.hello.world/total">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.hello.world">
 ## 功能列表
 > 1. 消息防撤回
 > 2. 虚拟定位
