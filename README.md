@@ -2,10 +2,9 @@
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.hello.world">
 
 ## 功能列表
-> 1. 消息防撤回
-> 2. 虚拟定位
-> 3. 企业微信秒抢红包
-> 4. 拍照打卡替换照片
+> 1. 虚拟定位
+> 2. 企业微信秒抢红包
+> 3. 拍照打卡替换照片
 ## 简介
 > 1. 原企业助手
 > 2. 演示地址: [企业秒抢](https://www.bilibili.com/video/BV1V8411s7rA?share_source=copy_web&vd_source=5c3f0e5da4aa76034f7f4b7b13cbfffd)
